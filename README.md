@@ -8,7 +8,7 @@ Always think of the above while solving a greedy problem.
 
 --> Each bit can be worked with independtly, most of the time in questions taking numbers are cumbersome but if we will look at the bits we might some idea to go on with.
 
-
+Alot of bulltin functions are there to help. We can calculate the number of most significant bit by using bulltin count trailing 0 and then - the number of bits to get the ans. int is 32 bit.
 
 
 IMP _ NOTES - 
