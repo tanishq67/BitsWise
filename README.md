@@ -1,6 +1,13 @@
 # BitsWise
 CHeck for important questions and notes for this topic.
 
+Imp Takeaways for problem solving -
+--> The most significant bit is greater than the whole sum of all the array. proof:  1 1 1 1, in this the first bit is 8 and the sum of all other is 7, 
+We can also use gp sum to calculate that and the results ccomes out be the 2^(k) -1 while the most significant bit 2^(k). 
+Always think of the above while solving a greedy problem.
+
+--> Each bit can be worked with independtly, most of the time in questions taking numbers are cumbersome but if we will look at the bits we might some idea to go on with.
+
 
 
 
